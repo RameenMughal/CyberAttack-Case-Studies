@@ -20,7 +20,7 @@ This repository is intended to serve as a **learning and reference resource** fo
 
 ## 🗂️ Structure
 
-Each case study will be organized in its own folder and will typically contain:
+Each case study will be organized and will typically contain:
 - `report.md` or `report.pdf` – Full detailed report
 - Optional diagrams, timelines, and references
 
